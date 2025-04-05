@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35312.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Attaccante_e_Difensore", "Attaccante_e_Difensore.csproj", "{8DFAA3E9-ED49-4753-A49A-8B156AFFCD97}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8DFAA3E9-ED49-4753-A49A-8B156AFFCD97}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8DFAA3E9-ED49-4753-A49A-8B156AFFCD97}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8DFAA3E9-ED49-4753-A49A-8B156AFFCD97}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8DFAA3E9-ED49-4753-A49A-8B156AFFCD97}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5F8AAC3E-FD22-451D-9108-D9E6ECBEE472}
+	EndGlobalSection
+EndGlobal

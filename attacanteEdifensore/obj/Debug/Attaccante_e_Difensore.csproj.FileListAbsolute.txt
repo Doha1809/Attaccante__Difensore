@@ -1,0 +1,14 @@
+C:\Users\Utente\source\repos\Attaccante_e_Difensore\bin\Debug\Attaccante_e_Difensore.exe.config
+C:\Users\Utente\source\repos\Attaccante_e_Difensore\bin\Debug\Attaccante_e_Difensore.exe
+C:\Users\Utente\source\repos\Attaccante_e_Difensore\bin\Debug\Attaccante_e_Difensore.pdb
+C:\Users\Utente\source\repos\Attaccante_e_Difensore\obj\Debug\Attaccante_e_Difensore.csproj.AssemblyReference.cache
+C:\Users\Utente\source\repos\Attaccante_e_Difensore\obj\Debug\Attaccante_e_Difensore.csproj.CoreCompileInputs.cache
+C:\Users\Utente\source\repos\Attaccante_e_Difensore\obj\Debug\Attaccante_e_Difensore.exe
+C:\Users\Utente\source\repos\Attaccante_e_Difensore\obj\Debug\Attaccante_e_Difensore.pdb
+C:\Users\Utente\Documents\attacanteEdifensore\bin\Debug\Attaccante_e_Difensore.exe.config
+C:\Users\Utente\Documents\attacanteEdifensore\bin\Debug\Attaccante_e_Difensore.exe
+C:\Users\Utente\Documents\attacanteEdifensore\bin\Debug\Attaccante_e_Difensore.pdb
+C:\Users\Utente\Documents\attacanteEdifensore\obj\Debug\Attaccante_e_Difensore.csproj.AssemblyReference.cache
+C:\Users\Utente\Documents\attacanteEdifensore\obj\Debug\Attaccante_e_Difensore.csproj.CoreCompileInputs.cache
+C:\Users\Utente\Documents\attacanteEdifensore\obj\Debug\Attaccante_e_Difensore.exe
+C:\Users\Utente\Documents\attacanteEdifensore\obj\Debug\Attaccante_e_Difensore.pdb
